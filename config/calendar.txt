@@ -1,0 +1,7 @@
+# This file lets you set up events to show up on the calendar
+
+[2008-04-24]
+	name = "Integrated Stained Glass Panel"
+	site = "Diablo Glass School"
+	sitelink = "http://www.diabloglassschool.com/mixshopclassdetails/integratedstainedglass.htm"
+	description = "In this six-week course you will experience the versatility of glass. You will learn the basics of stained glass, fused glass and hot glass in order to make a window panel that combines all three techniques. We will spend the first week learning to cut and solder glass and designing a panel. The second week will be spent making fused pieces, the third and fourth week will be in the hot shop making rondelles and marbles, and during the last two weeks we will combine all of your creations into one stunning glass panel. Feel free to bring along small found objects to inspire and to include in your work. This class will stretch the boundaries of stained glass. No experience necessary, but all levels welcome."

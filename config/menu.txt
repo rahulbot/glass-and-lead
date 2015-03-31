@@ -1,0 +1,17 @@
+# This file defines the menu hierarchy for the site.
+# You can edit this to change how the global and sub navigation are 
+# ordered.  Follow the model.
+
+index.php | Home
+
+gallery-flatwork.php | Stained Glass
+
+gallery-mosaic.php | Mosaic
+
+studio.php | Studio
+
+learn.php | Learn
+
+shop.php | Shop
+
+contact.php | Contact
