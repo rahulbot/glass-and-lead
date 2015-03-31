@@ -57,7 +57,7 @@ Click the images to see the glass installed.
 	<tr><td>&nbsp;</td></tr>
 	<tr>
 		<td align="center" colspan="2"><a href="images/curtains-big.jpg" rel="lightbox"><img src="images/curtains.jpg"></a></td>
-		<td align="center"><a href="images/cristinas-big.jpg" rel="lightbox" title="Panel for interior door. (Somerville, MA)"><img src="images/cristinas.jpg"></a></td>
+		<td align="center"><a href="images/garlic-big.jpg" rel="lightbox" title="Garlic. (Gardiner, ME)"><img src="images/garlic.jpg"></a></td>
 	</tr>
 	<tr><td>&nbsp;</td></tr>
 	<tr>
