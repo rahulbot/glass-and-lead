@@ -4,6 +4,7 @@ include("includes/header.php") ?>
 
 <br />
 
+<!--
 <div style="border:1px solid #666666;padding:5px;background-color:#333333;">
 <h2>Upcoming Class: Piecing together our own tree of life</h2>
 <p>
@@ -16,6 +17,7 @@ Sunday January 12, 4-7pm and January 13 7-8pm (optional)
 </div>
 
 <br />
+-->
 
 <img src="images/class-pieces.jpg">
 
