@@ -4,20 +4,22 @@ include("includes/header.php") ?>
 
 <br />
 
-<!--
+
 <div style="border:1px solid #666666;padding:5px;background-color:#333333;">
-<h2>Upcoming Class: Piecing together our own tree of life</h2>
+<h2>Upcoming Classes:</h2>
 <p>
-Piecing together our own tree of life (offered through the MEM Project).  
 <br />
-Sunday January 12, 4-7pm and January 13 7-8pm (optional)
+1. Saturday & Sunday May 23rd & 24th, 1pm-5pm
 <br />
-<b><a href="http://www.thememproject.org/art-workshops.html">register now!</a></b>
+2. 3 Tuesdays - July 7, 14, 21, 6pm-8:30pm
+<br />
+3. Saturday August 8th, 10am-6pm
+<br />
+$125, all supplies included
 </p>
 </div>
 
 <br />
--->
 
 <img src="images/class-pieces.jpg">
 
@@ -25,8 +27,7 @@ Sunday January 12, 4-7pm and January 13 7-8pm (optional)
 <br />
 
 <p>
-Emily works from a home studio on the red line and can organize private or group classes to help you
-make your stained glass dreams reality.
+Emily works and teaches from a home studio on the red line and can organize private or group classes.
 </p>
 
 <br />
