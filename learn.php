@@ -16,6 +16,8 @@ include("includes/header.php") ?>
 3. Saturday August 8th, 10am-6pm
 <br />
 $125, all supplies included
+<br />
+To register email emily@glassandlead.com
 </p>
 </div>
 
